@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1693078136 source:c:\users\eduardo\desktop\lenguaje de progrmacion 1\laboratorio\2 funciones\ejercicio2\funcion2.c
+	"header2.h"
+
+1693078061 c:\users\eduardo\desktop\lenguaje de progrmacion 1\laboratorio\2 funciones\ejercicio2\header2.h
+	<stdio.h>
+
+1693078114 source:c:\users\eduardo\desktop\lenguaje de progrmacion 1\laboratorio\2 funciones\ejercicio2\main.c
+	<stdio.h>
+	"header2.h"
+
