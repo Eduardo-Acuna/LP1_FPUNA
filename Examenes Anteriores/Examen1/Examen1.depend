@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1693866448 source:c:\users\eduardo\desktop\lenguaje de progrmacion 1\examenes anteriores\examen1\funciones.c
+	<stdio.h>
+	<math.h>
+	<string.h>
+	"header.h"
+
+1693866455 c:\users\eduardo\desktop\lenguaje de progrmacion 1\examenes anteriores\examen1\header.h
+	<stdio.h>
+	<math.h>
+	<string.h>
+
+1693866467 source:c:\users\eduardo\desktop\lenguaje de progrmacion 1\examenes anteriores\examen1\main.c
+	<stdio.h>
+	<math.h>
+	<string.h>
+	"header.h"
+

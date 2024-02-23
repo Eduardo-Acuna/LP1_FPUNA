@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1693869537 source:c:\users\eduardo\desktop\lenguaje de progrmacion 1\examenes anteriores\examen2\funcion.c
+	"head.h"
+
+1693868501 c:\users\eduardo\desktop\lenguaje de progrmacion 1\examenes anteriores\examen2\head.h
+
+1693869657 source:c:\users\eduardo\desktop\lenguaje de progrmacion 1\examenes anteriores\examen2\main.c
+	<stdio.h>
+	"head.h"
+
